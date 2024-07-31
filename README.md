@@ -21,3 +21,4 @@ Clone este repositório:
 Execute o script `character_identifier.py` e forneça a string que deseja analisar:
 ```sh
 python character_identifier.py
+```
